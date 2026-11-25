@@ -2,7 +2,7 @@
 
 **Best Paper Nominee · UR-RAD AAAI Symposium 2026**
 
-Pranay Dugar, [Mohitvishnu S. Gadde](https://mohitgadde.github.io/), Rajesh Mangannavar, [Aayam Kumar Shrestha](https://idigitopia.github.io/), [Alan Fern](https://engineering.oregonstate.edu/people/alan-fern)
+Pranay Dugar, [Mohitvishnu S. Gadde](https://mohitgadde.github.io/), [Rajesh Mangannavar](https://rajeshdm.github.io/), [Aayam Kumar Shrestha](https://idigitopia.github.io/), [Alan Fern](https://engineering.oregonstate.edu/people/alan-fern)
 
 [Dynamic Robotics and AI Lab (DRAIL)](https://mime.engineering.oregonstate.edu/research/drl/), Oregon State University
 
